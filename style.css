@@ -19,4 +19,5 @@ body {
   background: white;
   background: linear-gradient(to right, lightgrey, white, grey);
   background-image: url("background.png");
+  background-attachment: fixed;
 }
