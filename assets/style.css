@@ -20,4 +20,9 @@ body {
   background: linear-gradient(to right, lightgrey, white, grey);
   background-image: url("background.png");
   background-attachment: fixed;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Krona One', sans-serif;
 }
